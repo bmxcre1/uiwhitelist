@@ -1,1 +1,1 @@
-local whitelistedPlayers = {154662159}
+getgenv().whitelistedPlayers = {154662159}
