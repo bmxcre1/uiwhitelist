@@ -1,1 +1,1 @@
-getgenv().whitelistedPlayers = {154662159}
+_G.whitelistedPlayers = {154662159}
